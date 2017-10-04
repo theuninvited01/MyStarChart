@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nathanielwarren/AndroidStudioProjects/MyStarChart/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4193228dafed9b595e7558f2c2b64660644c4976">
+        <dex dex="/Users/nathanielwarren/AndroidStudioProjects/MyStarChart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_20e20ad001b70eec0e85b1e6b54067a79e5ce6af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanielwarren/.android/build-cache/263e8017cecffded882e9a602ff1168be2562b0f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/nathanielwarren/AndroidStudioProjects/MyStarChart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2638d50a5f6d38de5a6e6aefb3b0373c47937119/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanielwarren/.android/build-cache/b9efe8bc4fb6fbcd7d194f430eb5bb5100f0c827/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/nathanielwarren/AndroidStudioProjects/MyStarChart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bb6bdf402cfa2d02d5b94833e8d3ccf8b5d91d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanielwarren/.android/build-cache/832fe08722d53ea2244cd9cb7a549fecc1087637/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/nathanielwarren/AndroidStudioProjects/MyStarChart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36955a0226f0658241da32af8f5b77111b76e1f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanielwarren/.android/build-cache/7de032d8acd007927c98f38e24c262683f4ff16f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/nathanielwarren/AndroidStudioProjects/MyStarChart/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88b2bab80626aa3b7371f8b7181584e78d3162d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nathanielwarren/AndroidStudioProjects/MyStarChart/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/nathanielwarren/AndroidStudioProjects/MyStarChart/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3bfdd7ae9964fa1344753af5fc0e734f0454a62e/classes.dex" />
+    </item>
+
+</items>
